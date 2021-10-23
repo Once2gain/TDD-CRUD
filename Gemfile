@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.7.4'
+ruby '2.6.0'
 
 gem 'activerecord', '4.2.11'
 gem 'byebug'
